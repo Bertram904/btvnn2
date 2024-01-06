@@ -1,0 +1,29 @@
+? Waterfall sẽ phù hợp với những project như thế nào
+
+Thích hợp cho những dự án theo hướng đến mốc
+Khi ứng dụng cấu trúc tuần tự của mô hình Waterfall, 
+có những dự án rất phù hợp với những tổ chức, nhóm 
+hoạt động tốt dựa vào yếu tố mốc thời gian cụ thể. Với 
+các khung thời gian rõ ràng và cụ thể, các thành viên 
+trong nhóm có thể dễ dàng hiểu, làm đúng theo tiến trình thời gian.
+
+? Mô hình Waterfall phù hợp với các lĩnh vực
+
+- xây dựng công trình
+- tổ chức các sự kiện
+- thiết kế một dự án nào đó, một sản phẩm nào đó
+
+Nhược điểm của mô hình Waterfall
+Nó không phải là một mô hình lý tưởng cho một dự án kích thước lớn.
+Nếu yêu cầu không rõ ràng ngay từ đầu thì đó là phương pháp kém hiệu quả hơn.
+Rất khó di chuyển trở lại cái giai đoạn trước đó để thay đổi.
+Quá trình thử nghiệm bắt đầu khi quá trình phát triển kết thúc. 
+Do đó, nó có nguy cơ cao của các lỗi được tìm thấy sau giai 
+đoạn phát triển, và rất tốn kém để sửa các lỗi.
+
+Việc áp dụng mô hình Waterfall được khuyến khích khi người thực hiện nắm rõ yêu cầu của dự án tốt nhất, đòi hỏi về tính rõ ràng và tính ổn định cao như:
+
+Nắm vững được công nghệ phát triển của công nghệ.
+Loại bỏ những yêu cầu mập mờ, không rõ ràng.
+Có lượng tài nguyên phát triển phong phú và trình độ chuyên môn, kỹ thuật cao.
+Có thể phù hợp cho dự án nhỏ, ngắn hạn.
